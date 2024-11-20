@@ -22,7 +22,7 @@ function Navbar() {
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mb-lg-0">
               <li class="nav-item">
-                <Link class="nav-link active" aria-current="page" to="http://localhost:3000/" target="blank">
+                <Link class="nav-link active" aria-current="page" to="https://zerodha-clone-kite-app.vercel.app/" target="blank">
                   Signup
                 </Link>
               </li>
